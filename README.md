@@ -1,1 +1,1 @@
-https://github.com/RomanKrit/ono-tebe-nado-fd
+https://github.com/RomanKrit/posmotri-v-okno-fd
